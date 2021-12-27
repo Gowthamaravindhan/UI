@@ -15,7 +15,7 @@ function Rightpage() {
                 </div>
 
                 <div className="text1">
-                    <h2>Today</h2> <CloudIcon/>
+                    <h2>Today <CloudIcon/> </h2> 
                     <p>Sat,3 Aug</p>
                 </div> 
                 <div className="text2">

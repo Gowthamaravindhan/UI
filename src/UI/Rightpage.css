@@ -1,0 +1,56 @@
+body {
+    margin: 0%;
+    padding: 0;
+}
+
+.Side {
+    height: 720px;
+    width: 30%;
+    background-color: #100E3B;
+    float: right;
+    
+}
+
+.Img {
+    width: 50px;
+    height: 50px;
+    float: right;
+    margin: 10%;
+}
+
+.text {
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.text1 {
+    color: white;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.text2 {
+    color: white;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.pxt {
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    font-size: 10ch;
+    font-family: 'Courier New', Courier, monospace
+}
+
+.pxt p {
+    font-size: 15%;
+}
